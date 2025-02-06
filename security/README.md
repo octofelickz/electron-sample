@@ -1,0 +1,1 @@
+SAMPLES from here: https://www.electronjs.org/docs/latest/tutorial/security
